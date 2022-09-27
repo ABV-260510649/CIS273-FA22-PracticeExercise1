@@ -16,7 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PracticeExcercise1\PracticeExcercise1.csproj" />
     <ProjectReference Include="..\PracticeExcercise1\PracticeExercise1.csproj" />
   </ItemGroup>
 </Project>
